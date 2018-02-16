@@ -3,6 +3,7 @@ Use Deep Learning and Pytorch to do a auto recognition of the head MR serials im
 This project runs in ubuntu 16.04 LTS, Pytorch 0.3 and PyQt5. The saved model is so big, so you can download it on my server.
 
 ![image](https://github.com/douruixin/HeadMRSerialsRecognition/raw/master/images/1.png)
-
+![image](https://github.com/douruixin/HeadMRSerialsRecognition/raw/master/images/2.png)
+![image](https://github.com/douruixin/HeadMRSerialsRecognition/raw/master/images/3.png)
 
 Enjoy!
